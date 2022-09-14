@@ -1,7 +1,7 @@
 ## Maryanne Wachter
 ### Software | Structural Engineer
 ### [Portfolio | Services](https://mclare.dev)
-### About Me
+#### About Me
 
 I'm a licensed professional engineer and full-stack software developer. I use my engineering expertise to create software that advances sustainable practices in the built environment and build the tools I wish I had when working solely as a design professional.
 
